@@ -1,13 +1,11 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Hoeveel mensen maken tegenwoordig in Europa gebruik van de trein voor toeristische reizen?",
+  "subtitle": "Het aandeel van toeristische reizen per trein in de EU bedroeg in 2024 gemiddeld ongeveer 8% van alle toeristische reizen.",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
+  "textNote": "Deze verzameling omvat nationaal toerisme, oftewel toerisme door inwoners van een land naar bestemmingen in het land van verblijf (binnenlands toerisme) of in het buitenland (uitgaand toerisme). Er zijn geen gegevens beschikbaar voor Cyprus en Malta.",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
   "legend1": "Geen gegevens beschikbaar",
   "tooltipExtraInfoLabel": "Klik hier"
 }
