@@ -1,13 +1,11 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Hur många människor använder tåg för turistresor i Europa nuförtiden?",
+  "subtitle": "Andelen turistresor med tåg i EU år 2024 var i genomsnitt cirka 8 % av alla turistresor.",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "Denna samling omfattar nationell turism, med andra ord turism från invånare i ett land till destinationer i bosättningslandet (inrikesturism) eller utomlands (utgående turism). Inga uppgifter tillgängliga för Cypern och Malta.",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Åtkomst till data",
   "legend1": "Inga data tillgängliga",
   "tooltipExtraInfoLabel": "Klicka här"
 }
