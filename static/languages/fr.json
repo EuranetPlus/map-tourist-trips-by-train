@@ -1,13 +1,11 @@
 {
-  "title": "Quels pays de l’UE offrent les meilleures perspectives d’emploi ?",
-  "subtitle": "La croissance future de l’emploi dans ces pays en 2022-2035 est estimée à 5,6 %.",
+  "title": "Combien de personnes utilisent le train pour leurs voyages touristiques en Europe ces temps-ci ?",
+  "subtitle": "En 2024, la part des voyages touristiques effectués en train dans l'UE représentait en moyenne environ 8 % de l'ensemble des voyages touristiques.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Cette collection porte sur le tourisme national, c'est-à-dire le tourisme effectué par les résidents d'un pays vers des destinations situées dans leur pays de résidence (tourisme intérieur) ou à l'étranger (tourisme émetteur). Aucune donnée n'est disponible pour Chypre et Malte.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_DE": "L'Allemagne accélère le déploiement des énergies renouvelables et vise 80 % d'énergie propre d'ici 2030",
-  "extraInfo_FR": "Le Parlement français approuve un important projet de loi sur la réforme de l'immigration au milieu de manifestations à l'échelle nationale",
   "legend1": "Aucune donnée disponible",
   "tooltipExtraInfoLabel": "Cliquez ici"
 }
