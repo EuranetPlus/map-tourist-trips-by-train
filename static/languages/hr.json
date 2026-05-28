@@ -1,13 +1,11 @@
 {
-  "title": "Koje zemlje EU-a nude najbolje izglede za zapošljavanje?",
-  "subtitle": "Budući rast zaposlenosti u tim zemljama u razdoblju 2022. – 2035. procjenjuje se na 5,6%.",
+  "title": "Koliko ljudi danas koristi vlakove za turistička putovanja u Europi?",
+  "subtitle": "Udio turističkih putovanja ostvarenih vlakom u EU u 2024. godini bio je u prosjeku oko 8% svih turističkih putovanja.",
   "textNoteDescription": "Bilješka",
-  "textNote": "sdchdc",
+  "textNote": "Ova zbirka obuhvaća nacionalni turizam, drugim riječima turizam stanovnika neke zemlje prema odredištima u zemlji prebivališta (domaći turizam) ili inozemstvu (izlazni turizam). Nema dostupnih podataka za Cipar i Maltu.",
   "textSourceDescription": "Izvor",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pristupite podacima",
-  "extraInfo_DE": "Njemačka ubrzava uvođenje obnovljive energije, cilj je 80% čiste energije do 2030.",
-  "extraInfo_FR": "Francuski parlament odobrio veliki nacrt zakona o useljeničkoj reformi usred prosvjeda diljem zemlje",
+  "textSource": "Eurostat (2026.)",
+  "linkDataAccessDescription": "Pristup podacima",
   "legend1": "Nema dostupnih podataka",
   "tooltipExtraInfoLabel": "Kliknite ovdje"
 }
