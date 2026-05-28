@@ -1,13 +1,11 @@
 {
-  "title": "Welche EU-Länder bieten die besten Beschäftigungsaussichten?",
-  "subtitle": "Das künftige Beschäftigungswachstum in diesen Ländern im Zeitraum 2022–2035 wird auf 5,6 % geschätzt.",
+  "title": "Wie viele Menschen nutzen heutzutage Züge für touristische Reisen in Europa?",
+  "subtitle": "Der Anteil der mit der Bahn unternommenen Touristenreisen in der EU lag im Jahr 2024 im Durchschnitt bei rund 8 % aller Touristenreisen.",
   "textNoteDescription": "Notiz",
-  "textNote": "sdchdc",
+  "textNote": "Diese Sammlung umfasst den nationalen Tourismus, also Reisen von Einwohnern eines Landes innerhalb des eigenen Landes (Inlandstourismus) oder ins Ausland (Auslandstourismus). Für Zypern und Malta liegen keine Daten vor.",
   "textSourceDescription": "Quelle",
-  "textSource": "Abonnieren",
-  "linkDataAccessDescription": "Zugriff auf die Daten",
-  "extraInfo_DE": "Deutschland beschleunigt Ausbau erneuerbarer Energien und strebt bis 2030 80 % sauberen Stromanteil an",
-  "extraInfo_FR": "Französisches Parlament verabschiedet inmitten landesweiter Proteste ein umfassendes Gesetz zur Einwanderungsreform",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Greifen Sie auf die Daten zu.",
   "legend1": "Keine Daten verfügbar",
   "tooltipExtraInfoLabel": "klicken Sie hier"
 }
