@@ -1,13 +1,11 @@
 {
-  "title": "Which EU countries offer the best employment prospects?",
-  "subtitle": "Future employment growth in these countries in 2022-2035 is estimated at 5.6%.",
+  "title": "How many people are using trains for tourism trips in Europe these days?",
+  "subtitle": "Share of tourist trips made by train in the EU in 2024 were on average around 8% of all tourist trips.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "This collection covers national tourism, in other words tourism by residents of a country to destinations in the country of residence (domestic tourism) or abroad (outbound tourism). No data available for Cyprus and Malta.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Access the data",
-  "extraInfo_DE": "Germany Accelerates Renewable Energy Rollout, Targets 80% Clean Power by 2030",
-  "extraInfo_FR": "French Parliament Approves Major Immigration Reform Bill Amid Nationwide Protests",
   "legend1": "No data available",
   "tooltipExtraInfoLabel": "Click here"
 }
