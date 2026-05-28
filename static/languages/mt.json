@@ -1,13 +1,11 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "Kemm nies qed jużaw il-ferroviji għal vjaġġi turistiċi fl-Ewropa dawn il-jiem?",
+  "subtitle": "Is-sehem ta’ vjaġġi turistiċi magħmula bil-ferrovija fl-UE fl-2024 kien bħala medja ta’ madwar 8% tal-vjaġġi turistiċi kollha.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Din il-kollezzjoni tkopri t-turiżmu nazzjonali, fi kliem ieħor it-turiżmu mir-residenti ta’ pajjiż lejn destinazzjonijiet fil-pajjiż ta’ residenza (turiżmu domestiku) jew barra minn pajjiżhom (turiżmu ’l barra). M’hemm l-ebda dejta disponibbli għal Ċipru u Malta.",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "L-Eurostat (2026)",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
   "legend1": "L-ebda dejta disponibbli",
   "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }
