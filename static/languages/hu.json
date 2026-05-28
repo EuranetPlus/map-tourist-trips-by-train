@@ -1,13 +1,11 @@
 {
-  "title": "Mely uniós országok kínálják a legjobb foglalkoztatási kilátásokat?",
-  "subtitle": "A foglalkoztatás jövőbeni növekedése ezekben az országokban 2022 és 2035 között 5,6%-ra becsülhető.",
+  "title": "Hányan használnak manapság vonatot turisztikai céllal Európában?",
+  "subtitle": "Az EU-ban a vonattal megtett turisztikai utak aránya 2024-ben átlagosan az összes turisztikai utazás körülbelül 8%-át tette ki.",
   "textNoteDescription": "Jegyzet",
-  "textNote": "sdchdc",
+  "textNote": "Ez az adatgyűjtés a belföldi turizmust fedi le, azaz egy ország lakosainak a lakóhelyük szerinti országba (belföldi turizmus) vagy külföldre (kimenő turizmus) irányuló turizmusát. Ciprus és Málta esetében nem állnak rendelkezésre adatok.",
   "textSourceDescription": "Forrás",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Hozzáférés az adatokhoz",
-  "extraInfo_DE": "Németország felgyorsítja a megújuló energia elterjedését, és 2030-ra a 80%-os tiszta energia elérését tűzi ki célul",
-  "extraInfo_FR": "A francia parlament országos tiltakozások közepette jóváhagyta a jelentős bevándorlási reformról szóló törvényjavaslatot",
-  "legend1": "Nincs adat",
+  "legend1": "Nincsenek elérhető adatok",
   "tooltipExtraInfoLabel": "Kattintson ide"
 }
