@@ -1,13 +1,11 @@
 {
-  "title": "Quali paesi dell'UE offrono le migliori prospettive di occupazione?",
-  "subtitle": "Si stima che la crescita futura dell'occupazione in questi paesi nel periodo 2022-2035 sarà del 5,6%.",
+  "title": "Quante persone utilizzano oggi i treni per i viaggi turistici in Europa?",
+  "subtitle": "Nel 2024, la quota di viaggi turistici effettuati in treno nell'UE si è attestata in media intorno all'8% di tutti i viaggi turistici.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Questa raccolta dati riguarda il turismo nazionale, ovvero il turismo effettuato dai residenti di un paese verso destinazioni nel paese di residenza (turismo interno) o all'estero (turismo in uscita). Non sono disponibili dati per Cipro e Malta.",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Accedi ai dati",
-  "extraInfo_DE": "La Germania accelera il lancio delle energie rinnovabili, puntando all'80% di energia pulita entro il 2030",
-  "extraInfo_FR": "Il Parlamento francese approva un importante disegno di legge sulla riforma dell'immigrazione tra le proteste nazionali",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Accedere ai dati",
   "legend1": "Nessun dato disponibile",
   "tooltipExtraInfoLabel": "clicca qui"
 }
