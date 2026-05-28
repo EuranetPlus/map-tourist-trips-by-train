@@ -1,13 +1,11 @@
 {
-  "title": "Care țări UE oferă cele mai bune perspective de angajare?",
-  "subtitle": "Creșterea viitoare a ocupării forței de muncă în aceste țări în perioada 2022-2035 este estimată la 5,6%.",
+  "title": "Câți oameni folosesc trenurile pentru călătorii turistice în Europa în zilele noastre?",
+  "subtitle": "Ponderea călătoriilor turistice efectuate cu trenul în UE în 2024 a fost în medie de aproximativ 8% din totalul călătoriilor turistice.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Această colecție acoperă turismul național, cu alte cuvinte, turismul rezidenților unei țări către destinații din țara de reședință (turism intern) sau în străinătate (turism de emigrare). Nu sunt disponibile date pentru Cipru și Malta.",
   "textSourceDescription": "Sursă",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Accesați datele",
-  "extraInfo_DE": "Germania accelerează lansarea energiei regenerabile, țintește 80% energie curată până în 2030",
-  "extraInfo_FR": "Parlamentul francez aprobă un proiect de lege major de reformă a imigrației pe fondul protestelor la nivel național",
-  "legend1": "Nu există date disponibile",
+  "legend1": "Nu sunt disponibile date",
   "tooltipExtraInfoLabel": "Click aici"
 }
