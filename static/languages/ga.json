@@ -1,13 +1,11 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "Cé mhéad duine atá ag úsáid traenacha le haghaidh turais turasóireachta san Eoraip na laethanta seo?",
+  "subtitle": "Ar an meán, b'ionann sciar na dturas turasóireachta a rinneadh ar an traein san AE in 2024 agus thart ar 8% de na turais turasóireachta uile.",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
+  "textNote": "Clúdaíonn an bailiúchán seo turasóireacht náisiúnta, i bhfocail eile turasóireacht ag cónaitheoirí tíre chuig cinn scríbe sa tír chónaithe (turasóireacht intíre) nó thar lear (turasóireacht amach). Níl aon sonraí ar fáil do Chipir ná do Mhálta.",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
   "legend1": "Níl aon sonraí ar fáil",
   "tooltipExtraInfoLabel": "Cliceáil anseo"
 }
